@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TodoServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.232 sec <<< FAILURE! - in TodoServiceTest
+getAllTest(TodoServiceTest)  Time elapsed: 0.232 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at TodoServiceTest.getAllTest(TodoServiceTest.java:48)
+
